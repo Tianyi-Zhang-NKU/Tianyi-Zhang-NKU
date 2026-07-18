@@ -38,7 +38,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">🎓 01 · <a href="https://github.com/Tianyi-Zhang-NKU/qufan-learning-space-miniapp">趣帆学习空间</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/CURRENT-INTERNSHIP-238636?style=flat-square" alt="Current internship" />
@@ -48,7 +48,9 @@
       <p>这里最重要的不是完成几个页面，而是把多角色需求落实为可维护、可交付的产品功能。</p>
       <p align="center"><code>Mini Program</code> <code>JavaScript</code> <code>CloudBase</code> <code>Delivery</code></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3 align="center">🌱 02 · <a href="https://github.com/worstwoof/Zerror">Zerror 知芽</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TEAM-PROJECT-1F6FEB?style=flat-square" alt="Team project" />
@@ -65,14 +67,16 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h4 align="center">🧭 CppPilot · cpp-learn-agent</h4>
       <p align="center"><img src="https://img.shields.io/badge/PRIVATE-ACTIVE_DEVELOPMENT-8957E5?style=flat-square" alt="Private active development" /></p>
       <p>面向 C++ 初学者的 Windows 桌面学习 Agent，把代码工作区、教学型 Agent 与桌面宠物串成完整流程。</p>
       <p>当前已落地工具链探测、Monaco 编辑、编译运行、诊断、CMake、clangd/LSP 与 GDB 调试基础；Agent/MCP、知识树与桌面宠物属于后续里程碑。</p>
       <p align="center"><code>Electron</code> <code>Vue 3</code> <code>TypeScript</code> <code>Monaco</code></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h4 align="center">🦀 <a href="https://github.com/JadeAndStone/NKU-Rust-Project">NKU Rust Coding Agent</a></h4>
       <p align="center"><img src="https://img.shields.io/badge/TEAM-44_TESTS-DA7756?style=flat-square" alt="Team project with 44 tests" /></p>
       <p>团队开发的本地 CLI Coding Agent，支持多轮工具调用、Ask/Code 模式、命令审批、差异查看与文件回滚。</p>
@@ -131,18 +135,18 @@
 </div>
 
 <table align="center">
-  <thead>
-    <tr>
-      <th width="33%" align="center">Languages</th>
-      <th width="33%" align="center">AI &amp; Data</th>
-      <th width="33%" align="center">Product Engineering</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td align="center">Python · TypeScript · JavaScript<br />C++ · Rust · Dart<br />SQL · Shell</td>
-      <td align="center">PyTorch · OpenCV · MediaPipe<br />LLM · Agent · Time Series<br />Evaluation · Verification</td>
-      <td align="center">Vue · Electron · Flutter<br />FastAPI · Mini Program · SQLite<br />Git · Docker · GitHub Actions</td>
+      <th width="28%" align="center">Languages</th>
+      <td width="72%" align="center">Python · TypeScript · JavaScript · C++ · Rust · Dart · SQL · Shell</td>
+    </tr>
+    <tr>
+      <th width="28%" align="center">AI &amp; Data</th>
+      <td width="72%" align="center">PyTorch · OpenCV · MediaPipe · LLM · Agent · Time Series · Evaluation</td>
+    </tr>
+    <tr>
+      <th width="28%" align="center">Engineering</th>
+      <td width="72%" align="center">Vue · Electron · Flutter · FastAPI · Mini Program · SQLite · Git · Docker · GitHub Actions</td>
     </tr>
   </tbody>
 </table>
