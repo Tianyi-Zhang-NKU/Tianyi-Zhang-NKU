@@ -18,6 +18,11 @@
 
 </div>
 
+<p align="center">
+  <samp>AI Agents &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Product Engineering &nbsp;·&nbsp; Verified Delivery</samp>
+</p>
+
+---
 ## 🧭 About · 关于我
 
 - 🎓 南开大学软件学院软件工程专业 **2024 级本科生**，关注人工智能与可靠的软件工程实践。
@@ -26,72 +31,121 @@
 - 🧩 喜欢把想法推进为**能运行、能演示、能复现**的产品，并在团队协作中承担方案、实现、测试和最终表达。
 - 📫 欢迎交流 AI 应用、Agent 工程与有意思的软件项目：**2412227@mail.nankai.edu.cn**。
 
+---
 ## 🚀 Projects · 项目与实践
 
-### 01 · [趣帆学习空间](https://github.com/Tianyi-Zhang-NKU/qufan-learning-space-miniapp)
+<p align="center"><sub>从真实业务交付到 AI Agent 与交互产品，项目是这份主页的核心。</sub></p>
 
-`CURRENT INTERNSHIP` `PRIVATE REPOSITORY`
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 01 · <a href="https://github.com/Tianyi-Zhang-NKU/qufan-learning-space-miniapp">趣帆学习空间</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/CURRENT-INTERNSHIP-238636?style=flat-square" alt="Current internship" />
+        <img src="https://img.shields.io/badge/REPOSITORY-PRIVATE-6E7681?style=flat-square" alt="Private repository" />
+      </p>
+      <p>为教培公司持续开发的多角色微信小程序，服务学生/家长、教师、管理员与教研团队。覆盖课程学习、作业反馈、资料管理与权限分级等真实业务，并面向日常运营持续迭代。</p>
+      <p>这里最重要的不是完成几个页面，而是把多角色需求落实为可维护、可交付的产品功能。</p>
+      <p align="center"><code>Mini Program</code> <code>JavaScript</code> <code>CloudBase</code> <code>Delivery</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌱 02 · <a href="https://github.com/worstwoof/Zerror">Zerror 知芽</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TEAM-PROJECT-1F6FEB?style=flat-square" alt="Team project" />
+        <img src="https://img.shields.io/badge/AIGC-华北赛区二等奖-F2CC60?style=flat-square" alt="AIGC 华北赛区二等奖" />
+      </p>
+      <p>面向中学学习场景的 AIGC 智能错题成长应用，把 OCR、智能解析、多模态内容和学习闭环整合为可运行产品。</p>
+      <p>我主要负责理念梳理、方案文案、项目策划与展示表达，推动复杂功能形成清晰的产品叙事；项目获 AIGC 创新赛华北赛区二等奖。</p>
+      <p align="center"><code>Flutter</code> <code>FastAPI</code> <code>OCR</code> <code>LLM</code> <code>Multimodal</code></p>
+    </td>
+  </tr>
+</table>
 
-- 为教培公司持续开发的多角色微信小程序，服务学生/家长、教师、管理员与教研团队。
-- 覆盖课程学习、作业与反馈、资料管理、权限分级等真实业务流程，并面向日常运营持续迭代。
-- 项目重点不只是完成页面，而是把多角色需求落实为可维护、可交付的产品功能。
+<h3 align="center">Selected Engineering Projects</h3>
 
-`WeChat Mini Program` `JavaScript` `CloudBase` `Product Delivery`
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🧭 CppPilot · cpp-learn-agent</h4>
+      <p align="center"><img src="https://img.shields.io/badge/PRIVATE-ACTIVE_DEVELOPMENT-8957E5?style=flat-square" alt="Private active development" /></p>
+      <p>面向 C++ 初学者的 Windows 桌面学习 Agent，把代码工作区、教学型 Agent 与桌面宠物串成完整流程。</p>
+      <p>当前已落地工具链探测、Monaco 编辑、编译运行、诊断、CMake、clangd/LSP 与 GDB 调试基础；Agent/MCP、知识树与桌面宠物属于后续里程碑。</p>
+      <p align="center"><code>Electron</code> <code>Vue 3</code> <code>TypeScript</code> <code>Monaco</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🦀 <a href="https://github.com/JadeAndStone/NKU-Rust-Project">NKU Rust Coding Agent</a></h4>
+      <p align="center"><img src="https://img.shields.io/badge/TEAM-44_TESTS-DA7756?style=flat-square" alt="Team project with 44 tests" /></p>
+      <p>团队开发的本地 CLI Coding Agent，支持多轮工具调用、Ask/Code 模式、命令审批、差异查看与文件回滚。</p>
+      <p>我负责项目级 Agent 规则、测试与 Clippy 收口、差异/验证能力补强，以及报告、演示脚本和提交前质量说明。</p>
+      <p align="center"><code>Rust</code> <code>Cargo</code> <code>SSE</code> <code>Agent Tools</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4 align="center">🎧 <a href="https://github.com/worstwoof/Music-Website">Space Music · Music Website</a></h4>
+      <p align="center"><img src="https://img.shields.io/badge/IMMERSIVE-MUSIC_WEB-DB61A2?style=flat-square" alt="Immersive music web" /></p>
+      <p align="center">团队完成的沉浸式音乐 Web 应用，融合 WebGL 动态背景、GSAP 动画、明暗主题、实时音频可视化和音频/MV 双模式播放器。<br />我负责首页功能与页面设计，并参与演示视频录制，将视觉表达与完整交互结合起来。</p>
+      <p align="center"><code>JavaScript</code> <code>Web Audio API</code> <code>Three.js</code> <code>GSAP</code> <code>View Transitions</code></p>
+    </td>
+  </tr>
+</table>
 
-### 02 · [Zerror 知芽](https://github.com/worstwoof/Zerror)
+<h3 align="center">More Builds · 更多作品</h3>
 
-`TEAM PROJECT` `AIGC 创新赛华北赛区二等奖`
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <b>🧘 <a href="https://github.com/Tianyi-Zhang-NKU/FocusGuard">FocusGuard</a></b><br />
+      <sub>基于姿态与视觉感知的桌面健康辅助系统，将课程项目完成为可交互应用。</sub><br />
+      <code>CV</code> <code>Vue</code>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <b>📈 <a href="https://github.com/Tianyi-Zhang-NKU/bdc2026-stock-walk-forward">BDC 2026 Stock Walk-Forward</a></b><br />
+      <sub>股票收益预测、滚动验证、候选池集成与过拟合审计组成的可复现实验流水线。</sub><br />
+      <code>Time Series</code> <code>Evaluation</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <b>🏫 <a href="https://github.com/Tianyi-Zhang-NKU/WanderInNKU">WanderInNKU</a></b><br />
+      <sub>面向南开大学招生季的一站式信息平台，为考生、家长和招生工作人员提供服务。</sub><br />
+      <code>Web Platform</code> <code>Service Design</code>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <b>🎮 <a href="https://github.com/Tianyi-Zhang-NKU/Territory-Duel-Mini-game">Territory Duel</a></b><br />
+      <sub>使用 C++ / Qt 完成的领地对决小游戏，包含完整玩法与桌面交互界面。</sub><br />
+      <code>C++</code> <code>Qt</code>
+    </td>
+  </tr>
+</table>
 
-- 面向中学学习场景的 AIGC 智能错题成长应用，把 OCR、智能解析、多模态内容和学习闭环整合为可运行产品。
-- 在团队中主要负责项目理念梳理、方案文案、项目策划与展示 README，推动复杂功能形成清晰的产品叙事。
-- 项目获得 AIGC 创新赛华北赛区二等奖，是我参与 AI 产品协作与比赛交付的重要实践。
-
-`Flutter` `FastAPI` `OCR` `LLM` `Multimodal Learning`
-
-### Selected Engineering Projects
-
-#### CppPilot · cpp-learn-agent
-
-`PRIVATE` `ACTIVE DEVELOPMENT`
-
-面向 C++ 初学者的 Windows 桌面学习 Agent，把代码工作区、教学型 Agent 与桌面宠物串成完整学习流程。当前已落地工具链探测、Monaco 编辑、编译运行、诊断、CMake、clangd/LSP 与 GDB 调试基础；Agent/MCP、知识树与桌面宠物属于后续里程碑。
-
-`Electron` `Vue 3` `TypeScript` `Monaco` `SQLite` `C++ Toolchain`
-
-#### [NKU Rust Coding Agent](https://github.com/JadeAndStone/NKU-Rust-Project)
-
-团队开发的本地 CLI Coding Agent，支持多轮工具调用、Ask/Code 模式、命令审批、差异查看与文件回滚。我负责项目级 Agent 规则、测试与 Clippy 收口、`/差异`、`/验证`、Ask/Code 能力补强，以及报告材料、演示脚本和提交前质量说明。
-
-`Rust` `Cargo Workspace` `SSE` `Agent Tools` `44 Tests`
-
-#### [Space Music · Music Website](https://github.com/worstwoof/Music-Website)
-
-团队完成的沉浸式音乐 Web 应用，融合 WebGL 动态背景、GSAP 动画、明暗主题、实时音频可视化和音频/MV 双模式播放器。我负责首页功能与页面设计，并参与演示视频录制，将视觉表达与完整交互结合起来。
-
-`JavaScript` `Web Audio API` `Three.js` `GSAP` `View Transitions`
-
-### More Builds
-
-| Project | What I built / explored |
-| --- | --- |
-| [**FocusGuard**](https://github.com/Tianyi-Zhang-NKU/FocusGuard) | 基于姿态与视觉感知的桌面健康辅助系统，将课程项目完成为可交互应用。 |
-| [**BDC 2026 Stock Walk-Forward**](https://github.com/Tianyi-Zhang-NKU/bdc2026-stock-walk-forward) | 股票收益预测、滚动验证、候选池集成与过拟合审计组成的可复现实验流水线。 |
-| [**WanderInNKU**](https://github.com/Tianyi-Zhang-NKU/WanderInNKU) | 面向南开大学招生季的一站式信息平台，为考生、家长和招生工作人员提供服务。 |
-| [**Territory Duel**](https://github.com/Tianyi-Zhang-NKU/Territory-Duel-Mini-game) | 使用 C++ / Qt 完成的领地对决小游戏，包含完整玩法与桌面交互界面。 |
+---
 
 ## ⚙️ Tech Stack · 技术栈
 
+<p align="center"><sub>常用语言、AI 工具与产品工程能力</sub></p>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=python,ts,js,cpp,rust,dart,pytorch,opencv,vue,electron,flutter,fastapi,git,docker,sqlite&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
-| Languages | AI & Data | Product Engineering |
-| --- | --- | --- |
-| Python · TypeScript · JavaScript | PyTorch · OpenCV · MediaPipe | Vue · Electron · Flutter |
-| C++ · Rust · Dart | LLM · Agent · Time Series | FastAPI · Mini Program · SQLite |
-| SQL · Shell | Evaluation · Verification | Git · Docker · GitHub Actions |
+<table align="center">
+  <thead>
+    <tr>
+      <th width="33%" align="center">Languages</th>
+      <th width="33%" align="center">AI &amp; Data</th>
+      <th width="33%" align="center">Product Engineering</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Python · TypeScript · JavaScript<br />C++ · Rust · Dart<br />SQL · Shell</td>
+      <td align="center">PyTorch · OpenCV · MediaPipe<br />LLM · Agent · Time Series<br />Evaluation · Verification</td>
+      <td align="center">Vue · Electron · Flutter<br />FastAPI · Mini Program · SQLite<br />Git · Docker · GitHub Actions</td>
+    </tr>
+  </tbody>
+</table>
 
 > **Current focus:** Agent planning · repository memory · evaluation · verification · AI-native software engineering
 
@@ -108,6 +162,7 @@
 
 软件工程专业班长（大一、大二连续两年） · 共青团南开大学软件学院委员会组织部副部长（大二一年） · 共青团南开大学委员会组织部综合办公室主任
 
+---
 ## 📊 GitHub Activity
 
 <picture>
