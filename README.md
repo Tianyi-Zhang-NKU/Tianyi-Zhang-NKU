@@ -34,7 +34,7 @@
 ---
 ## 🚀 Projects · 项目与实践
 
-<p align="center"><sub>从真实业务交付到 AI Agent 与交互产品，项目是这份主页的核心。</sub></p>
+<p align="center"><sub>从真实业务交付到 AI Agent 与交互产品。</sub></p>
 
 <table align="center">
   <tr>
@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/REPOSITORY-PRIVATE-6E7681?style=flat-square" alt="Private repository" />
       </p>
       <p>为教培公司持续开发的多角色微信小程序，服务学生/家长、教师、管理员与教研团队。覆盖课程学习、作业反馈、资料管理与权限分级等真实业务，并面向日常运营持续迭代。</p>
-      <p>这里最重要的不是完成几个页面，而是把多角色需求落实为可维护、可交付的产品功能。</p>
+      <p>致力于把用户的多角色需求落实为可维护、可交付的产品功能。</p>
       <p align="center"><code>Mini Program</code> <code>JavaScript</code> <code>CloudBase</code> <code>Delivery</code></p>
     </td>
   </tr>
@@ -71,7 +71,7 @@
       <h4 align="center">🧭 CppPilot · cpp-learn-agent</h4>
       <p align="center"><img src="https://img.shields.io/badge/PRIVATE-ACTIVE_DEVELOPMENT-8957E5?style=flat-square" alt="Private active development" /></p>
       <p>面向 C++ 初学者的 Windows 桌面学习 Agent，把代码工作区、教学型 Agent 与桌面宠物串成完整流程。</p>
-      <p>当前已落地工具链探测、Monaco 编辑、编译运行、诊断、CMake、clangd/LSP 与 GDB 调试基础；Agent/MCP、知识树与桌面宠物属于后续里程碑。</p>
+      <p>已落地工具链探测、Monaco 编辑、编译运行、诊断、CMake、clangd/LSP 与 GDB 调试基础，Agent/MCP、知识树与桌面宠物等功能，还在持续开发过程中。</p>
       <p align="center"><code>Electron</code> <code>Vue 3</code> <code>TypeScript</code> <code>Monaco</code></p>
     </td>
   </tr>
@@ -100,13 +100,8 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <b>🧘 <a href="https://github.com/Tianyi-Zhang-NKU/FocusGuard">FocusGuard</a></b><br />
-      <sub>基于姿态与视觉感知的桌面健康辅助系统，将课程项目完成为可交互应用。</sub><br />
+      <sub>基于姿态与视觉感知的桌面健康辅助系统，基于 Python 、 MediaPipe 开发的一款可交互网页端应用。</sub><br />
       <code>CV</code> <code>Vue</code>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b>📈 <a href="https://github.com/Tianyi-Zhang-NKU/bdc2026-stock-walk-forward">BDC 2026 Stock Walk-Forward</a></b><br />
-      <sub>股票收益预测、滚动验证、候选池集成与过拟合审计组成的可复现实验流水线。</sub><br />
-      <code>Time Series</code> <code>Evaluation</code>
     </td>
   </tr>
   <tr>
@@ -164,7 +159,7 @@
 
 ### 学生工作
 
-软件工程专业班长（大一、大二连续两年） · 共青团南开大学软件学院委员会组织部副部长（大二一年） · 共青团南开大学委员会组织部综合办公室主任
+软件工程专业班长（2024 - 至今） · 共青团南开大学软件学院委员会组织部副部长（2025 - 2026） · 共青团南开大学委员会组织部综合办公室主任（2025 - 2026）
 
 ---
 ## 📊 GitHub Activity
